@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 
-gulp.task('hello', function() {
+gulp.task('hello', async function() {
     console.log('Hello Zell');
+
 });
