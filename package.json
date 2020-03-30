@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/prestarocket/test_gulp/issues"
   },
-  "homepage": "https://github.com/prestarocket/test_gulp#readme"
+  "homepage": "https://github.com/prestarocket/test_gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
